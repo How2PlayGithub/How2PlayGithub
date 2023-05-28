@@ -24,14 +24,12 @@
 </p>
 
 <!--- about -->
-🎓 `Student` |
-🐧 `Arch Linux` |
-🐍 `Learning Python` |
-🎻 `Plays Instruments` |
-🥝 `NZ` |
-🍰 `November` |
-🐁 `Mouse Year` |
-🧮 ` Maths`
+🎓 `Student` 
+
+🐧 `Arch Linux` 
+
+🐍 `Learning Python` 
+
 
 <!-- Connection -->
 <p align="center">
