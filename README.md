@@ -38,7 +38,7 @@
   Add me! 
 </p>
 <p align="center">
-     Earthrye#9558
+     <b>Earthrye#9558</b>
 </p>
 <p align="center">
     <picture>
