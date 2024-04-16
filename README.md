@@ -1,6 +1,4 @@
 ```sh
-~$ nitch
-
      ___           __
     / _ | ________/ /
    / __ |/ __/ __/ _ \
@@ -10,13 +8,13 @@
   │   user   │ How2PlayGithub
   │   hname  │ archlinux
   │   distro │ Arch Linux
-  │   kernel │ 6.3.3-arch1-1
-  │   uptime │ 3h 44m
+  │   kernel │ 6.8.4-arch1-1
+  │   uptime │ 13h 19m
   │   shell  │ bash
-  │   pkgs   │ 1139
-  │   memory │ 8384 | 67072 MiB
+  │   pkgs   │ 1096
+  │   memory │ 4726 | 7686 MiB
   ├───────────┤
-      colors │        
+  │   colors │        
 ```
 
 <p align="center">
