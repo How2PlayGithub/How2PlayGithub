@@ -1,5 +1,5 @@
 ```sh
-⚙ earthi@archlinux  ~  nitch
+⚙ How2PlayGithub@archlinux  ~  nitch
      ___           __
     / _ | ________/ /
    / __ |/ __/ __/ _ \
